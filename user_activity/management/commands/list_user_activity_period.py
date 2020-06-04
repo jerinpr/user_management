@@ -19,4 +19,4 @@ class Command(BaseCommand):
         user_activity_return_list = {}
         user_activity_return_list['ok'] = 'true'
         user_activity_return_list['members'] = user_activity_dict
-        return user_activity_return_list
+        
