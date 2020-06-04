@@ -1,0 +1,38 @@
+[{
+	"real_name":"John",
+	"email":"jogn@gmail.com",
+	"tz":"Glinda Southgood",
+	"activity_periods":{
+		"start_time":"2020-05-10 10:51",
+		"end_time":"2020-05-10 10:51"
+		
+	}
+},{
+	"real_name":"David",
+	"email":"david@gmail.com",
+	"tz":"United States",
+	"activity_periods":{
+		"start_time":"2020-05-10 10:51",
+		"end_time":"2020-05-10 10:51"
+		
+	}
+},{
+	"real_name":"Ram",
+	"email":"ram@gmail.com",
+	"tz":"United States",
+	"activity_periods":{
+		"start_time":"2020-05-10 10:51",
+		"end_time":"2020-05-10 10:51"
+		
+    }
+},
+{
+	"real_name":"Roy",
+	"email":"roy@gmail.com",
+	"tz":"America/Los_Angeles",
+	"activity_periods":{
+		"start_time":"2020-05-10 10:51",
+		"end_time":"2020-05-10 10:51"
+		
+    }
+}]
